@@ -1,0 +1,1352 @@
+This is the html version of the file https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005.pdf. Google automatically generates html versions of documents as we crawl the web.
+Tip: To quickly find your search term on this page, press Ctrl+F or ⌘-F (Mac) and use the find bar.
+Page 1Notice of proposed change pursuant to the Payment, Clearing, and Settlement Act of 2010Section 806(e)(1) *
+Section 806(e)(2) *Security-Based Swap Submission pursuant
+to the Securities Exchange Act of 1934Section 3C(b)(2) *Exhibit 2 Sent As Paper Document
+Exhibit 3 Sent As Paper Documenthas duly caused this filing to be signed on its behalf by the undersigned thereunto duly authorized.
+19b-4(f)(6)
+19b-4(f)(5)
+Provide a brief description of the action (limit 250 characters, required when Initial is checked *).(Name *)
+NOTE: Clicking the button at right will digitally sign and lock
+this form. A digital signature is as legally binding as a physical
+signature, and once signed, this form cannot be changed.Deputy General Counsel and Managing Director(Title *)04/01/2021
+DateProvide the name, telephone number, and e-mail address of the person on the staff of the self-regulatory organization
+prepared to respond to questions and comments on the action.Assistant General Counsel and Director
+Title *
+Contact Information19b-4(f)(4)
+19b-4(f)(2)
+19b-4(f)(3)Extension of Time Period
+for Commission Action *
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+Form 19b-4
+Withdrawal
+Fax
+John
+Last Name *
+Filing by
+Pilot
+The Depository Trust Company
+005
+- *
+2021Amendment No. (req. for Amendments *)File No.* SR -
+Petrofsky
+JPetrofsky@dtcc.com
+(813) 470-2115
+Telephone *
+E-mail *
+First Name *
+SignaturePursuant to the requirements of the Securities Exchange Act of 1934,Section 19(b)(3)(A) *
+Section 19(b)(3)(B) *
+Initial *
+Amendment *
+Pursuant to Rule 19b-4 under the Securities Exchange Act of 1934
+Description
+Modify the DTC Settlement Service Guide and the Form of DTC Pledgee’s Agreement
+bbecker@dtcc.com
+Brandon Becker
+By
+Section 19(b)(2) *19b-4(f)(1)Required fields are shown with yellow backgrounds and asterisks.Page 1 of * 45OMB APPROVAL
+OMB Number: 3235-0045
+Estimated average burden
+hours per response............38RuleDate Expires *Page 2
+If the self-regulatory organization is amending only part of the text of a lengthy
+proposed rule change, it may, with the Commission's permission, file only those
+portions of the text of the proposed rule change in which changes are being made if
+the filing (i.e. partial amendment) is clearly understandable on its face. Such partial
+amendment shall be clearly identified and marked to show deletions and additions.Partial AmendmentAdd
+Remove
+ViewThe self-regulatory organization may choose to attach as Exhibit 5 proposed changes
+to rule text in place of providing it in Item I and which may otherwise be more easily
+readable if provided separately from Form 19b-4. Exhibit 5 shall be considered part
+of the proposed rule change.Exhibit 5 - Proposed Rule Text
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+For complete Form 19b-4 instructions please refer to the EFFS website.Copies of any form, report, or questionnaire that the self-regulatory organization
+proposes to use to help implement or operate the proposed rule change, or that is
+referred to by the proposed rule change.Exhibit Sent As Paper DocumentExhibit 4 - Marked Copies
+Add
+Remove
+View
+Exhibit 3 - Form, Report, or Questionnaire
+Add
+Remove
+View
+Exhibit 2 - Notices, Written Comments,
+Transcripts, Other Communications
+Add
+Remove
+View
+Exhibit 1 - Notice of Proposed Rule Change *
+Add
+Form 19b-4 Information *
+Exhibit 1A- Notice of Proposed Rule
+Change, Security-Based Swap Submission,
+or Advance Notice by Clearing Agencies *Add
+Remove
+ViewRemove
+Add
+RemoveThe full text shall be marked, in any convenient manner, to indicate additions to and
+deletions from the immediately preceding filing. The purpose of Exhibit 4 is to permit
+the staff to identify immediately the changes made from the text of the rule with which
+it has been working.ViewThe self-regulatory organization must provide all required information, presented in a
+clear and comprehensible manner, to enable the public to provide meaningful
+comment on the proposal and for the Commission to determine whether the proposal
+is consistent with the Act and applicable rules and regulations under the Act.ViewExhibit Sent As Paper DocumentThe Notice section of this Form 19b-4 must comply with the guidelines for publication
+in the Federal Register as well as any requirements for electronic filing as published
+by the Commission (if applicable). The Office of the Federal Register (OFR) offers
+guidance on Federal Register publication requirements in the Federal Register
+Document Drafting Handbook, October 1998 Revision. For example, all references to
+the federal securities laws must include the corresponding cite to the United States
+Code in a footnote. All references to SEC rules must include the corresponding cite
+to the Code of Federal Regulations in a footnote. All references to Securities
+Exchange Act Releases must include the release number, release date, Federal
+Register cite, Federal Register date, and corresponding file number (e.g., SR-[SRO]
+-xx-xx). A material failure to comply with these guidelines will result in the proposed
+rule change being deemed not properly filed. See also Rule 0-3 under the Act (17
+CFR 240.0-3)
+The Notice section of this Form 19b-4 must comply with the guidelines for publication
+in the Federal Register as well as any requirements for electronic filing as published
+by the Commission (if applicable). The Office of the Federal Register (OFR) offers
+guidance on Federal Register publication requirements in the Federal Register
+Document Drafting Handbook, October 1998 Revision. For example, all references to
+the federal securities laws must include the corresponding cite to the United States
+Code in a footnote. All references to SEC rules must include the corresponding cite
+to the Code of Federal Regulations in a footnote. All references to Securities
+Exchange Act Releases must include the release number, release date, Federal
+Register cite, Federal Register date, and corresponding file number (e.g., SR-[SRO]
+-xx-xx). A material failure to comply with these guidelines will result in the proposed
+rule change, security-based swap submission, or advance notice being deemed not
+properly filed. See also Rule 0-3 under the Act (17 CFR 240.0-3)
+Copies of notices, written comments, transcripts, other communications. If such
+documents cannot be filed electronically in accordance with Instruction F, they shall be
+filed in accordance with Instruction G.Add
+Remove
+ViewRequired fields are shown with yellow backgrounds and asterisks.Page 3
+Page 3 of 45
+1.
+Text of the Proposed Rule Change
+(a) The proposed rule change1 of The Depository Trust Company (“DTC”) would
+modify the DTC Settlement Service Guide (“Settlement Guide”)2 and the form of DTC
+Pledgee’s Agreement (“Pledgee’s Agreement”),3 as described below. Specifically, the proposed
+rule change would revise text in the Settlement Guide and Pledgee’s Agreement to clarify the
+text with respect to the processing of book entries of Pledge-related4 activity at DTC. The1Capitalized terms not defined herein are defined in the Rules, By-Laws and Organization
+Certificate of DTC (“Rules”) available at
+http://www.dtcc.com/~/media/Files/Downloads/legal/rules/dtc_rules.pdf.2Available at https://www.dtcc.com/legal/rules-and-procedures. The Service Guides
+constitute Procedures of DTC. Pursuant to the Rules, the term “Procedures” means the
+Procedures, service guides, and regulations of DTC adopted pursuant to Rule 27, as
+amended from time to time. See Rule 1, Section 1, infra note 3. DTC’s Procedures are
+filed with the Securities and Exchange Commission (“Commission”). They are binding
+on DTC and each Participant in the same manner as they are bound by the Rules. See
+Rule 27, infra note 3.3Available at https://www.dtcc.com/legal/rules-and-procedures. Pursuant to Rule 2,
+Section 3, an entity that uses DTC’s pledge services must enter into an agreement with
+DTC satisfactory to DTC. See Rule 2, Section 3, supra note 1. In this regard, DTC
+requires a Pledgee that is not a Participant to sign a Pledgee’s Agreement. Participants
+enter into a Participant’s Agreement which binds them to the Rules and Procedures
+(including, but not limited to, those related to pledge activity), and are not required by
+DTC to enter into a separate Pledgee’s Agreement. See also Rule 1, Section 1, supra note
+1 (providing terms of the Participant’s Agreement).4Pursuant to Rule 1, The defined term “Pledge” in the Rules means, inter alia, “creating or
+providing for a security interest in a Certificated or Uncertificated Security, a Securities
+Account or a Securities [sic] Entitlement in accordance with the NYUCC.” See Rule 1,
+supra note 1. Pursuant to Rule 1, the term “NYUCC” means the Uniform Commercial
+Code of New York, as amended from time to time. See Rule 1, supra note 1. Pursuant to
+Rule 1, the term “Certificated Security” has the meaning given to the term “certificated
+security” in Section 8-102 of the NYUCC. See Rule 1, supra note 1. Pursuant to
+Section 8-102 of the NYUCC, “certificated security” means a security that is represented
+by a certificate. See NYUCC 8-102. Pursuant to Rule 1, the term “Uncertificated
+Security” has the meaning given to the term “uncertificated security” in Section 8-102 of
+the NYUCC. See Rule 1, supra note 1. Pursuant to Section 8-102 of the NYUCC,
+“uncertificated security” means a security that is not represented by a certificate.
+Pursuant to Rule 1, the term “Securities Account” (1) as used with respect to a Participant
+or Pledgee, means an account maintained by DTC for the Participant or Pledgee to which
+Securities transactions of the Participant or Pledgee effected through the facilities of DTC
+are debited and credited in the manner specified in the Rules and Procedures; and (2) as
+used with respect to DTC, means an internal account of DTC to which Securities
+transactions are debited and credited to DTC. See Rule 1, supra note 1. Pursuant to RulePage 4
+Page 4 of 45
+proposed revisions would reflect in the text of the Settlement Guide and Pledgee’s Agreement
+that Pledged Securities remain credited to a Pledgor’s Account unless the Pledgee makes a
+demand for the Pledged Securities, as described below. In this regard, the respective texts of the
+Settlement Guide and the Pledgee’s Agreement currently indicate that Pledged Securities are
+credited to a Pledgee’s Account. As discussed below, the proposed rule change relates to a
+technical aspect of the operational processing of Pledge transactions and would not impact the
+rights or obligations of a Participant or Pledgee. The text of the proposed changes to the rules of
+DTC are annexed hereto as Exhibit 5.
+(b) Not applicable.
+(c) Not applicable.
+2.
+Procedures of the Clearing Agency
+The proposed rule change was approved by a Deputy General Counsel of DTC on April
+1, 2021.
+3.
+Clearing Agency’s Statement of the Purpose of, and Statutory Basis for, the
+Proposed Rule Change
+(a) Purpose
+The proposed rule change of DTC would modify the Settlement Guide and the form of
+Pledgee’s Agreement, as described below. Specifically, the proposed rule change would revise
+text in the Settlement Guide and Pledgee’s Agreement to clarify the text with respect to the
+processing of book entries of Pledge-related5 activity at DTC. The proposed revisions would
+1, the term “Security Entitlement” has the meaning given to the term “security
+entitlement” in Section 8-102 of the NYUCC. The interest of a Participant or Pledgee in
+a Security credited to its Account is a Security Entitlement. See id. Pursuant to
+Section 8-102 of the NYUCC, “security entitlement” means the rights and property
+interest of an entitlement holder with respect to a financial asset specified in Part 5. See
+NYUCC §8-102. NYUCC Section 8-501(b) provides that a person acquires a “security
+entitlement” when, inter alia, a securities intermediary indicates by book entry that a
+financial asset has been credited to the person’s securities account. The absence of the
+crediting of a financial asset to an account of a Pledgee and the fact that an account of a
+Pledgee is not a securities account under Article 8 mean that the Pledgee has not acquired
+a security entitlement under Article 8. See NYUCC § 8-501(b). Pursuant to Section 8-
+102, “entitlement holder” means a person identified in the records of a securities
+intermediary as the person having a security entitlement against the securities
+intermediary. If a person acquires a security entitlement by virtue of Section 8-501(b)(2)
+or (3), that person is the entitlement holder. See NYUCC §8-102.5Pursuant to Rule 1, The defined term “Pledge” in the Rules means, inter alia, “creating or
+providing for a security interest in a Certificated or Uncertificated Security, a Securities
+Account or a Securities [sic] Entitlement in accordance with the NYUCC.” See Rule 1,
+supra note 1. Pursuant to Rule 1, the term “NYUCC” means the Uniform CommercialPage 5
+Page 5 of 45
+reflect in the text of the Settlement Guide and Pledgee’s Agreement that Pledged Securities
+remain credited to a Pledgor’s Account unless the Pledgee makes a demand for the Pledged
+Securities, as described below. In this regard, the respective texts of the Settlement Guide and
+the Pledgee’s Agreement currently indicate that Pledged Securities are credited to a Pledgee’s
+Account. As discussed below, the proposed rule change relates to a technical aspect of the
+operational processing of Pledge transactions and would not impact the rights or obligations of a
+Participant or Pledgee.
+Code of New York, as amended from time to time. See Rule 1, supra note 1. Pursuant to
+Rule 1, the term “Certificated Security” has the meaning given to the term “certificated
+security” in Section 8-102 of the NYUCC. See Rule 1, supra note 1. Pursuant to Section
+8-102 of the NYUCC, “certificated security” means a security that is represented by a
+certificate. See NYUCC 8-102. Pursuant to Rule 1, the term “Uncertificated Security”
+has the meaning given to the term “uncertificated security” in Section 8-102 of the
+NYUCC. See Rule 1, supra note 1. Pursuant to Section 8-102 of the NYUCC,
+“uncertificated security” means a security that is not represented by a certificate.
+Pursuant to Rule 1, the term “Securities Account” (1) as used with respect to a Participant
+or Pledgee, means an account maintained by DTC for the Participant or Pledgee to which
+Securities transactions of the Participant or Pledgee effected through the facilities of DTC
+are debited and credited in the manner specified in the Rules and Procedures; and (2) as
+used with respect to DTC, means an internal account of DTC to which Securities
+transactions are debited and credited to DTC. See Rule 1, supra note 1. Pursuant to Rule
+1, the term “Security Entitlement” has the meaning given to the term “security
+entitlement” in Section 8-102 of the NYUCC. The interest of a Participant or Pledgee in
+a Security credited to its Account is a Security Entitlement. See id. Pursuant to
+Section 8-102 of the NYUCC, “security entitlement” means the rights and property
+interest of an entitlement holder with respect to a financial asset specified in Part 5. See
+NYUCC §8-102. NYUCC Section 8-501(b) provides that a person acquires a “security
+entitlement” when, inter alia, a securities intermediary indicates by book entry that a
+financial asset has been credited to the person’s securities account. The absence of the
+crediting of a financial asset to an account of a Pledgee and the fact that an account of a
+Pledgee is not a securities account under Article 8 mean that the Pledgee has not acquired
+a security entitlement under Article 8. See NYUCC § 8-501(b). Pursuant to Section 8-
+102, “entitlement holder” means a person identified in the records of a securities
+intermediary as the person having a security entitlement against the securities
+intermediary. If a person acquires a security entitlement by virtue of Section 8-501(b)(2)
+or (3), that person is the entitlement holder. See NYUCC §8-102.Page 6
+Page 6 of 45
+The following discussion is provided by DTC and includes, but is not limited to, its own
+analysis of applicable state law provisions that DTC believes are relevant for purposes of
+describing the proposed rule change.
+Background.
+Eligibility for Pledge Services
+The pledge services of DTC are available to banks, trust companies, broker-dealers and
+other Persons approved by the DTC, which have entered into an agreement with the DTC
+satisfactory to it, for the purpose of effecting a Pledge of Deposited Securities to such banks,
+trust companies, broker-dealers and other Persons.6 A Pledgee may but need not be a
+Participant. A Pledgee is required by DTC to sign a Pledgee’s Agreement unless it is also a
+Participant. Participants are not required to sign a separate Pledgee’s Agreement to use DTC’s
+pledge services because the Participant’s Agreement binds the Participant to DTC’s Rule and
+Procedures, including those relating to pledge-related activity. Only a Pledgee which is a
+Participant may receive a Pledge Versus Payment.7
+Book Entry of Pledges and Legal Effect
+As indicated above, the definition of a “Security Entitlement” in the DTC Rules
+incorporates the definition of such term in Article 8 of the NYUCC and notes that “[t]he interest
+of a Participant or Pledgee in a Security credited to its Account is a Security Entitlement.”
+However, as more fully discussed below, while the Settlement Guide and the Pledgee’s
+Agreement make reference to the movement of Securities to a Pledgee’s Account, from an
+operational standpoint, DTC does not in fact credit a Security to an Account of a Pledgee; what
+the Pledgee receives is not a Security Entitlement. The Securities remain credited to the
+Pledgor’s account until the Pledgee releases the Pledged Securities or makes a demand for the
+Pledged Securities, as discussed below. Rather, a notation is placed on the Account of the
+Pledgor that the Securities are Pledged to the Pledgee and the Securities remain in pledged status
+until the Pledgee instructs otherwise.
+As described below, this bookkeeping method does not adversely impact the rights of the
+Pledgee in that the Pledgee maintains Control over the Pledged Securities and the Pledged
+Securities cannot be used by the Pledgee for any other transaction unless the Pledgee releases the
+Securities from the Pledged Status through an instruction to DTC.
+DTC’s Description of Pledge
+DTC’s Settlement Service Guide states that:6See Rule 2, Section 3, supra note 1.7See id.Page 7
+Page 7 of 45
+“[w]hen pledging securities to a pledgee, the pledgor’s position is moved from the
+pledgor’s general free account to the pledgee’s account which prevents the pledged position from
+being used to complete other transactions. Likewise, the release of a pledged position would
+move the pledged position back to the pledgor’s general free account where it would then be
+available to complete other transactions.”8
+Paragraph 2 of DTC’s form of Pledgee’s Agreement provides that:
+“[s]o long as Pledgee shall maintain a Depository Trust account, Depository Trust, upon
+the pledge to Pledgee of securities held by Depository Trust for the account of any depositor in
+Depository Trust, will make appropriate entries on its books transferring the securities from the
+account of such depositor to the account of Pledgee and shall maintain such securities in the
+account of Pledgee until instructed by Pledgee to release such securities to the account of the
+pledgor, to deliver such securities to the order of Pledgee or to transfer such securities on the
+books of Depository Trust to the account of a depositor in Depository Trust other than the
+pledgor.”
+The descriptions of DTC’s pledge arrangements in the (1) Settlement Service Guide, with
+respect to the text shown above, and as more fully described below, and (2) form of Pledgee’s
+Agreement are imprecise because in practice DTC does not move or transfer the securities from
+an account of the Pledgor to an account of the Pledgee, as more fully described below.
+The definition of a “Security Entitlement” in the DTC Rules incorporates the definition
+of such term in Article 8 of the NYUCC and notes that “[t]he interest of a Participant or Pledgee
+in a Security credited to its Account is a Security Entitlement.”
+However, since DTC is not in fact crediting a Security to an Account of a Pledgee, what
+the Pledgee receives is not a Security Entitlement.
+The definition of an “Entitlement Holder” in the DTC Rules incorporates the definition of
+such term in Article 8 of the NYUCC (as to which see below) and notes that “[a] Participant or
+Pledgee is an Entitlement Holder with respect to a Security credited to its Account”.
+However, since DTC is not in fact crediting a Security to an Account of a Pledgee, the
+Pledgee is not an Entitlement Holder. However, the Pledgee maintains Control of the Pledged
+Securities as more fully described below. A key to a Pledgee exercising its Control is its ability
+to instruct DTC an Entitlement Order for the delivery, pledge release or withdrawal of a security.
+Entitlement Order
+The definition of an “Entitlement Order” in the Rules incorporates the definition of such
+term in Article 8 of the NYUCC that “[a]n instruction from a Participant or Pledgee to the
+Corporation with respect to a Delivery, Pledge, Release or Withdrawal of a Security credited to a
+Securities Account is an Entitlement Order”.8See Settlement Guide, supra note 2 at 3-4.Page 8
+Page 8 of 45
+Note that the definition of an Entitlement Order does not require that the Security be
+credited to a Securities Account of the instructor. The breadth of this definition allows permitted
+entities, such as Pledgees, to issue Entitlement Orders to DTC in respect of Securities credited to
+Securities Accounts belonging to others.
+DTC Rule 9(B)9 provides that:
+“[i]f [DTC] receives an instruction from a Pledgee to effect a Delivery or Withdrawal of
+Pledged Securities, such instruction shall have the effect of notifying [DTC] that the
+Pledgee elects not to Release the Pledged Securities but, rather, to assert its Control over
+the Pledged Securities by the transfer of a greater interest in the Pledged Securities to itself
+or another Person. [DTC] shall accept such an instruction as a representation that the
+Pledgee is acting in accordance with applicable law, rules or regulations, agreements or
+any adjudication thereof.”
+Under NYUCC Section 8-507(a),10 a securities intermediary satisfies its duty to comply
+with an Entitlement Order if it acts with respect to the duty as agreed upon by the entitlement
+holder and the securities intermediary. DTC satisfies its duty to comply with an Entitlement Order
+if it acts with respect to the duty as agreed upon by the Entitlement Holder and the Securities
+Intermediary. In the case of Security Entitlements pledged on the books of DTC, DTC satisfies its
+duty to comply with an Entitlement Order by complying with the Entitlement Order of the Pledgee.
+Control
+Under NYUCC Section 9-106(a),11 “[a] person has control of a certificated security,
+uncertificated security, or security entitlement as provided in Section 8-106”.12
+Under NYUCC Section 8-106(d), “[a] purchaser has “control” of a security entitlement
+if:
+(1) the purchaser becomes the entitlement holder;
+(2) the securities intermediary has agreed that it will comply with entitlement orders
+originated by the purchaser without further consent by the entitlement holder; or
+(3) another person has control of the security entitlement on behalf of the purchaser or,
+having previously acquired control of the security entitlement, acknowledges that it has control
+on behalf of the purchaser.”9See Rule 9(B), supra note 1.10NYUCC § 8-507(a).11See NYUCC § 9-106(a).12NYUCC § 8-106.Page 9
+Page 9 of 45
+Under NYUCC Section 1-102,13 a purchaser is “a person that takes by purchase” with
+“purchase” being defined as “taking by sale, lease, discount, negotiation, mortgage, pledge, lien,
+security interest, issue or reissue, gift, or any other voluntary transaction creating an interest in
+property”.
+NYUCC Section 8-106(f) further provides that “[a] purchaser has “control” under
+subsection (c)(2) or (d)(2) even if any duty of the issuer or the securities intermediary to comply
+with instructions or entitlement orders originated by the purchaser is subject to any condition or
+conditions (other than further consent by the registered owner or the entitlement holder).”
+Official Comment 4 to NYUCC Section 8-10614 notes that:
+“[s]ubsection (d)(2) provides that a purchaser has control if the securities intermediary
+has agreed to act on entitlement orders originated by the purchaser if no further consent by the
+entitlement holder is required. Under subsection (d)(2), control may be achieved even though the
+original entitlement holder remains as the entitlement holder.”
+Example 6 of Official Comment 4 is illustrative:
+“Able & Co., a securities dealer, grants Alpha Bank a security interest in a security
+entitlement that includes 1000 shares of XYZ Co. stock that Able holds through an account with
+Clearing Corporation. Able causes Clearing Corporation to transfer the shares into a pledge
+account, pursuant to an agreement under which Able will continue to receive dividends,
+distributions, and the like, but Alpha has the right to direct dispositions. As in Example 3, Alpha
+has control of the 1000 shares under subsection (d)(2).”
+In the case of security entitlements pledged on the books of DTC, because DTC will
+comply with the instructions of a Pledgee as provided for in Rule 9(B),15 which is an agreement
+between DTC and its Participants and Pledgees, a Pledgee has control of such security
+entitlements under NYUCC § 8-106(d)(2) even when the Pledged Securities remain credited to
+the account of the Pledgor.
+DTC’s pledge arrangements operate pursuant to the DTC Rules and the NYUCC. When
+Security Entitlements are pledged to a Pledgee through the facilities of DTC, the Pledgee has a
+security interest in such pledged Security Entitlements.16 A Pledgee has “control” under Articles13See NYUCC § 1-102.14See NYUCC § 8-106.15See Rule 9(B), supra note 1.16The interest transferred is, however, only a security interest if the Pledgor and Pledgee
+have an agreement outside of DTC that constitutes a security agreement under applicable
+law and as to which the other requirements for attachment and enforceability of a security
+interest have been satisfied. The agreement is entered into by the parties outside of DTC,Page 10
+Page 10 of 45
+8 and 9 of the NYUCC and under the DTC Rules of any Security Entitlements pledged to it
+through the facilities of DTC,17 and the Pledgee is empowered to issue Entitlement Orders18 to
+DTC to direct the release, delivery or withdrawal of any such pledged Security Entitlements.
+Example of a Pledge by a Participant to a Pledgee
+When Security Entitlements credited to Participant A’s account at DTC are pledged to
+Pledgee B through the facilities of DTC, B has a security interest in such pledged security
+entitlements.19
+B does not itself have “security entitlements” to the underlying securities and B is not an
+“entitlement holder” as such terms are defined in the NYUCC.
+However, B as Pledgee would have “control” under Articles 8 and 9 of the NYUCC and
+under the Rules of any Security Entitlements pledged to it through the facilities of DTC, and B is
+empowered to issue Entitlement Orders to DTC to direct the release, delivery or withdrawal of
+any such pledged Security Entitlements.
+Proposed Rule Change
+Proposed change to text of Settlement Guide
+Pursuant to the proposed rule change, DTC would revise the text of the Settlement Guide
+to reflect that Pledged Securities do not move to an Account of the Pledgee. As discussed above,
+the movement of the securities is not required to effect a Pledge and does not impact the rights of
+Pledgor or Pledgee under the Rules or the NYUCC. Rather a Pledged Securities continues
+and DTC does not have knowledge or information on the existence of such an agreement
+between the parties.17The definition of “Control” in the Rules incorporates the definition of such term in
+Article 8 of the NYUCC and notes that “[a] Pledgee has Control of Pledged Securities
+until they are Delivered, Released or Withdrawn by the Pledgee.” See Rule 1, Section 1,
+supra note 1.18The definition of an “Entitlement Order” in the Rules incorporates the definition of such
+term in Section 8-102 of the NYUCC and notes that “[a]n instruction from a Participant
+or Pledgee to the Corporation with respect to a Delivery, Pledge, Release or Withdrawal
+of a Security credited to a Securities Account is an Entitlement Order”. As noted above,
+Pursuant to Section 8-102, “entitlement order” means a notification communicated to
+a securities intermediary directing transfer or redemption of a financial asset to which
+the entitlement holder has a security entitlement. See NYUCC 8-102.19As mentioned above, the interest transferred is, however, only a security interest if A and
+B have an agreement outside of DTC that constitutes a security agreement under applicable
+law and as to which the other requirements for attachment and enforceability of a security
+interest have been satisfied.Page 11
+Page 11 of 45
+credited to the pledgor’s account, however with a system notation showing the status of the
+position as pledged by the pledgor to the pledgee. This status systemically prevents the pledged
+position from being used to complete other transactions, which is consistent with the Pledgees
+Control over the Pledge Securities, as discussed above. Likewise, the release of a pledged
+position results in the removal of notation of the pledge status of the position and the position
+would become available to the pledgor to complete other transactions.
+The changes to the Settlement Guide text are technical in nature, and while enhancing
+clarity with respect to the book entries performed by DTC as they relate to pledge activity, the
+change would not impact the rights or obligations of Participants and Pledgees. In this regard,
+the applicable sections of the Settlement Guide would be revised to (1) clarify the text with
+respect operational aspect of book entries of pledges, as discussed above, and (2) make changes
+to text for readability necessary in the context of the proposed clarification, as follows (bold,
+underlined text indicates additions; bold strike-through text indicates deletions):
+(a) Text included in Item 3 (Collateral Loans) set forth under the heading “Settlement
+Transactions”20 would be revised as follows:
+“[w]hen pledging securities to a pledgee, the pledgor’s position is moved from the
+pledgor’s general free account to the pledgee’s account continues to be credited
+to the pledgor’s account, however with a system notation showing the status of
+the position as pledged by the pledgor to the pledgee. This status systemically
+which prevents the pledged position from being used to complete other transactions.
+Likewise, the release of a pledged position would move the pledged position back
+to the results in the removal of notation of the pledge status of the position and
+the position would become pledgor’s general free account where it would then be
+available to the pledgor to complete other transactions.”
+(b) Text included under the heading “About the Product” that appears under the heading
+“Collateral Loan Program”21 would be revised as follows:
+“The Collateral Loan Program allows you to pledge securities from held in your
+general free account as collateral for a loan or for other purposes (such as Letters of
+Credit) to a pledgee participating in the program. You can also request the pledgee to
+release pledge securities back to your general free account. These pledges and
+releases can be free (when money proceeds are handled outside DTC) or valued
+(when money proceeds are applied as debits and credits to the pledgee’s and
+pledgor’s money settlement accounts). A Pledgee may, but need not be, a Participant.
+Only a Pledgee which is a Participant may receive valued pledges.”20See Settlement Guide, supra note 2 at 3-4.21See Settlement Guide, supra note 2 at 8-9.Page 12
+Page 12 of 45
+(c) Text included under the heading “Pledges to the Options Clearing Corporation”22
+would be revised as follows:
+“A Participant writing an option on any options exchange may fully collateralize that
+option by pledging the underlying securities by book-entry through DTC to the
+Options Clearing Corporation (OCC). If the option is called (exercised), the securities
+may be released and delivered to the holder of the call. If the option contract is not
+exercised, OCC validates a release of the pledged securities, which are then
+returned to the Participant’s general free account.”
+(d) Text included under the heading “Release of Deposits with Options Clearing
+Corporation on Expired Options” would be revised as follows:
+OCC automatically releases securities deposited with it to cover margin requirements
+on an option contract when the option contract expires. The securities are then
+allocated to your general free account. Notification of the released securities is
+received via the Collateral Loan Services functionality in the Settlement User
+Interface or automated output.
+(e) Text included under the heading “Shared Control Accounts”23 would be revised as
+follows: In addition to changes made for the purposes described in (x) and (y) above,
+DTC would also delete text shown below that states” “Pledgee account continue to be
+available at DTC.” This sentence was added to the text when Shared control account
+arrangements were added to the Procedures24 to clarify that the existing pledge
+services would continue to be offered. As both the original pledge program and the
+Shared control account process are both established programs, DTC believes the
+sentence is no longer necessary:
+About the Product
+Shared control accounts are available as an alternative to “agreement to pledge”
+arrangements.
+Background
+When a Participant pledges securities to the pledgee account of a pledgee at DTC
+(sometimes called a “hard pledge”), the securities are under the sole control of the
+pledgee. Only the pledgee can redeliver or release the securities. Pledgee accounts
+continue to be available at DTC.22See Settlement Guide, supra note 2 at 10.23See Settlement Guide, supra note 2 at 15-16.24See Securities Exchange Act Release No. 40191 (July 10, 1998), 63 FR 38444 (July 16,
+1998) (SR-DTC-98-5).Page 13
+Page 13 of 45
+Shared control accounts are available at DTC as an alternative to agreement to pledge
+(sometimes called “agreement to deliver”) arrangements. A pledgee has control over
+securities delivered by a Participant to the Participant’s shared control account at
+DTC since the pledge has the ability to redeliver the securities without further consent
+by the Participant. Until the pledgee redelivers the securities, the Participant has the
+flexibility to redeliver or make substitutions for the securities without obtaining the
+pledgee’s release of the securities.
+Shared controls are separately identified in DTC’s Reference Directory. Participants
+interested in establishing a shared control account should contact their Relationship
+Manager.
+Procedures for DTC Shared Control Accounts
+The following procedures are an addition to DTC’s Procedures for Pledgees.
+1. Any Participant may establish a shared control account at DTC and may
+designate any DTC pledgee to be the pledgee for that shared control account.
+A Participant may deliver securities (or other financial assets) by a free pledge
+from any of its DTC accounts (the “original account”) to its shared control
+account in order to grant a security interest or other interest in the securities to
+the pledgee. The shared control account is an account of the Participant and is
+identified with a separate account number from any other account of the
+Participant. A Participant may establish multiple shared control accounts, but
+only one pledge can be designated for each shared control account.
+2. Except as modified by these procedures, the operation of a shared control
+account is identical to the operation of a DTC pledge account and all DTC
+procedures applicable to pledges accounts are applicable to shared control
+accounts. No deliveries vs. payment, pledges vs. payment, or physical
+deposits can be made to a shared control account and no deliveries vs.
+payment, pledges vs. payment, or physical withdrawals can be made from a
+shared control account. A Participant should not deliver securities to another
+Participant’s shared control account. In the instructions for a delivery of
+securities to a shared control account, the mandatory hypothecation code field
+should be completed in the same manner as it is for a pledge made without
+the use of a shared control delivery to a pledge account. The DTC fees and
+charges for a transaction involving a shared control account are the same as
+the fees and charges for a pledge transaction that does not involving involve
+a pledge account. The DTC monthly account usage charges applicable to a
+shared control account are charged to the Participant. The DTC reports and
+statements to the Participant and the pledge for a transaction involving a
+shared control account are the same as the reports and statements for a
+transaction involving a pledge that does not involve a shared control
+account.Page 14
+Page 14 of 45
+3. As with a pledge account, voting Voting rights on the securities credited to a
+shared control account are assigned to the Participant. Cash dividend and
+interest payments and other cash distributions on such securities are credited
+to the original account. Distribution of securities for which the ex-distribution
+date is on or prior to the payable date or in which the distribution is payable in
+a different security are also credited to the original account. Any stock splits
+or other distributions of the same securities for which the ex-distribution date
+is after the payable date are credited to the shared control account.
+4. The securities credited to a shared control account cannot be designated as or
+included in the collateral for any obligation of the Participant or the pledgee to
+DTC. DTC has no lien or other interest in any securities credited to a shared
+control account”
+Proposed change to text of the Pledgee’s Agreement
+Pursuant to the proposed rule change, DTC would revise the text of the Pledgee’s
+Agreement to reflect that Pledged Securities do not move to a pledgee account. The change is
+technical in nature and while enhancing clarity with respect to the book entries performed by
+DTC as they relate to pledge activity, the change would not impact the rights or obligations of
+Participants and Pledgees pursuant to the Rules, Service Guide and/or the Pledgee’s Agreement.
+In this regard, the applicable text of the Pledgee’s Agreement would be revised as follows (bold,
+underlined text indicates additions; bold strike-through text indicates deletions):
+“[s]o long as Pledgee shall maintain a Depository Trust account, Depository Trust,
+upon the pledge to Pledgee of securities held by Depository Trust for the account of
+any depositor in Depository Trust, will make appropriate entries on its books to
+indicate the pledge of transferring the securities from the account of such
+depositor to the account of Pledgee and shall maintain such securities in the account
+of with a notation that the securities are pledged by the depositor to the Pledgee
+until instructed by Pledgee to release such securities to the account of the pledgor, to
+deliver such securities to the order of Pledgee or to transfer such securities on the
+books of Depository Trust to the account of a depositor in Depository Trust other than
+the pledgor.”
+Effective Date
+The proposed rule change would become effective upon filing.
+(b) Statutory Basis
+Section 17A(b)(3)(F) of the Securities Exchange Act of 1934 (“Act”),25 requires that the
+rules of the clearing agency be designed, inter alia, to promote the prompt and accurate clearance
+and settlement of securities transactions. DTC believes that the proposed rule change is2515 U.S.C. 78q-1(b)(3)(F).Page 15
+Page 15 of 45
+consistent with this provision of the Act. DTC believes that the proposed rule change is
+consistent with this provision of the Act for the reasons described below.
+As described above, the proposed rule change would allow Participants and Pledgees to
+more readily understand the Rules and Procedures relating to the processing of book entries of
+Pledges at DTC by (1) clarifying text to more accurately reflect the operational process of how
+book entries of pledges are entered on DTC’s system, and (2) making changes to text for
+readability necessary in the context of the proposed clarification. By clarifying the Rules to
+facilitate Participants ability to understand the operational processes relating to pledge services,
+DTC believes that the proposed changes would facilitate Participants’ and Pledgees’ ability to
+process pledge transactions and related understand DTC system functionality designed to
+accommodate key aspects of the pledge process, including the ability of the Pledgee to release
+Pledged Securities or make a demand for collateral relating to the Pledged Securities, as
+described above. Therefore, by facilitating the ability of Participants to understand the related
+Rules and pledge functionality, DTC believes the proposed rule change would promote the
+prompt and accurate clearance and settlement of securities transactions, consistent with Section
+17(A)(b)(3)(f) of the Act.26
+4.
+Clearing Agency’s Statement on Burden on Competition
+DTC does not believe that the proposed rule change would have any impact on
+competition because it would merely make technical clarifying changes and changes for
+enhanced readability to the text of the Settlement Service Guide and the Pledgee’s Agreement
+that do not otherwise affect Participants’ and Pledgee’s rights or obligations.
+5.
+Clearing Agency’s Statement on Comments on the Proposed Rule Change Received
+from Members, Participants, or Others
+Written comments relating to this proposed rule change have not been solicited or
+received. DTC will notify the Commission of any written comments received by DTC.
+6.
+Extension of Time Period for Commission Action
+Not applicable.
+7.
+Basis for Summary Effectiveness Pursuant to Section 19(b)(3) or for Accelerated
+Effectiveness Pursuant to Section 19(b)(2)
+(a) The proposed rule change is to take effect immediately upon filing pursuant to
+Section 19(b)(3)(A) of the Act27 and subparagraph (f)(4)(i) of Rule 19b-4 under the Act.2826Id.2715 U.S.C. 78s(b)(3)(A).2817 CFR 240.19b-4(f)(4)(i).Page 16
+Page 16 of 45
+(b) In accordance with subparagraph (f)(4)(i) of Rule 19b-4 under the Act,29 the
+proposed rule change effects a change in an existing DTC service that (A) does not adversely
+affect the safeguarding of securities or funds in the custody or control of DTC or for which it is
+responsible, and (B) does not significantly affect the respective rights or obligations of DTC or
+persons using the service. The proposed rule change would clarify text in the Settlement Guide
+and Pledgee’s Agreement without impacting the respective rights or obligations of DTC or
+persons using DTC’s services, because the changes are technical in nature.
+(c) Not applicable.
+(d) Not applicable.
+8.
+Proposed Rule Change Based on Rules of Another Self-Regulatory Organization or
+of the Commission
+Not applicable.
+9.
+Security-Based Swap Submissions Filed Pursuant to Section 3C of the Act
+Not applicable.
+10. Advance Notice Filed Pursuant to Section 806(e) of the Payment, Clearing and
+Settlement Supervision Act of 2010
+Not applicable.
+11. Exhibits
+Exhibit 1 – Not applicable.
+Exhibit 1A – Notice of proposed rule change for publication in the Federal Register.
+Exhibit 2 – Not applicable.
+Exhibit 3 – Not applicable.
+Exhibit 4 – Not applicable.
+Exhibit 5 – Proposed changes to the Settlement Guide and Pledgee’s Agreement.29Id.Page 17
+Page 17 of 45
+EXHIBIT 1A
+SECURITIES AND EXCHANGE COMMISSION
+(Release No. 34-[_________]; File No. SR-DTC-2021-005)
+[DATE]
+Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of and
+Immediate Effectiveness of a Proposed Rule Change to Modify the DTC Settlement
+Service Guide and the Form of DTC Pledgee’s Agreement
+Pursuant to Section 19(b)(1) of the Securities Exchange Act of 1934 (“Act”)1 and
+Rule 19b-4 thereunder,2 notice is hereby given that on April __, 2021, The Depository
+Trust Company (“DTC”)] filed with the Securities and Exchange Commission
+(“Commission”) the proposed rule change as described in Items I, II and III below, which
+Items have been prepared by the clearing agency. DTC filed the proposed rule change
+pursuant to Section 19(b)(3)(A) of the Act3 and Rule 19b-4(f)(4) thereunder.4 The
+Commission is publishing this notice to solicit comments on the proposed rule change
+from interested persons.
+I.
+Clearing Agency’s Statement of the Terms of Substance of the Proposed Rule
+Change
+The proposed rule change consists would modify the DTC Settlement Service
+Guide (“Settlement Guide”)5 and the form of DTC Pledgee’s Agreement (“Pledgee’s115 U.S.C. 78s(b)(1).217 CFR 240.19b-4.315 U.S.C. 78s(b)(3)(A).417 CFR 240.19b-4(f)(4).5Available at https://www.dtcc.com/legal/rules-and-procedures. The Service
+Guides constitute Procedures of DTC. Pursuant to the Rules, the term
+“Procedures” means the Procedures, service guides, and regulations of DTC
+adopted pursuant to Rule 27, as amended from time to time. See Rule 1, Section
+1, infra note 3. DTC’s Procedures are filed with the Securities and ExchangePage 18
+Page 18 of 45
+Agreement”),6 as described below. Specifically, the proposed rule change would revise
+text in the Settlement Guide and Pledgee’s Agreement to clarify the text with respect to
+the processing of book entries of Pledge-related7 activity at DTC. The proposed
+Commission (“Commission”). They are binding on DTC and each Participant in
+the same manner as they are bound by the Rules. See Rule 27, infra note 3.6Available at https://www.dtcc.com/legal/rules-and-procedures. Pursuant to Rule
+2, Section 3, an entity that uses DTC’s pledge services must enter into an
+agreement with DTC satisfactory to DTC. See Rule 2, Section 3, supra note 1. In
+this regard, DTC requires a Pledgee that is not a Participant to sign a Pledgee’s
+Agreement. Participants enter into a Participant’s Agreement which binds them
+to the Rules and Procedures (including, but not limited to, those related to pledge
+activity), and are not required by DTC to enter into a separate Pledgee’s
+Agreement. See also Rule 1, Section 1, supra note 1 (providing terms of the
+Participant’s Agreement).7Pursuant to Rule 1, The defined term “Pledge” in the Rules means, inter alia,
+“creating or providing for a security interest in a Certificated or Uncertificated
+Security, a Securities Account or a Securities [sic] Entitlement in accordance with
+the NYUCC.” See Rule 1, supra note 1. Pursuant to Rule 1, the term “NYUCC”
+means the Uniform Commercial Code of New York, as amended from time to
+time. See Rule 1, supra note 1. Pursuant to Rule 1, the term “Certificated
+Security” has the meaning given to the term “certificated security” in Section 8-
+102 of the NYUCC. See Rule 1, supra note 1. Pursuant to Section 8-102 of the
+NYUCC, “certificated security” means a security that is represented by a
+certificate. See NYUCC 8-102. Pursuant to Rule 1, the term “Uncertificated
+Security” has the meaning given to the term “uncertificated security” in Section 8-
+102 of the NYUCC. See Rule 1, supra note 1. Pursuant to Section 8-102 of the
+NYUCC, “uncertificated security” means a security that is not represented by a
+certificate. Pursuant to Rule 1, the term “Securities Account” (1) as used with
+respect to a Participant or Pledgee, means an account maintained by DTC for the
+Participant or Pledgee to which Securities transactions of the Participant or
+Pledgee effected through the facilities of DTC are debited and credited in the
+manner specified in the Rules and Procedures; and (2) as used with respect to
+DTC, means an internal account of DTC to which Securities transactions are
+debited and credited to DTC. See Rule 1, supra note 1. Pursuant to Rule 1, the
+term “Security Entitlement” has the meaning given to the term “security
+entitlement” in Section 8-102 of the NYUCC. The interest of a Participant or
+Pledgee in a Security credited to its Account is a Security Entitlement. See id.
+Pursuant to Section 8-102 of the NYUCC, “security entitlement” means the rights
+and property interest of an entitlement holder with respect to a financial
+asset specified in Part 5. See NYUCC §8-102. NYUCC Section 8-501(b)
+provides that a person acquires a “security entitlement” when, inter alia, aPage 19
+Page 19 of 45
+revisions would reflect in the text of the Settlement Guide and Pledgee’s Agreement that
+Pledged Securities remain credited to a Pledgor’s Account unless the Pledgee makes a
+demand for the Pledged Securities, as described below. In this regard, the respective
+texts of the Settlement Guide and the Pledgee’s Agreement currently indicate that
+Pledged Securities are credited to a Pledgee’s Account. As discussed below, the
+proposed rule change relates to a technical aspect of the operational processing of Pledge
+transactions and would not impact the rights or obligations of a Participant or Pledgee.
+The text of the proposed changes to the rules of DTC are annexed hereto as Exhibit 5, as
+described in greater detail below.8
+II. Clearing Agency’s Statement of the Purpose of, and Statutory Basis for, the
+Proposed Rule Change
+In its filing with the Commission, the clearing agency included statements
+concerning the purpose of and basis for the proposed rule change and discussed any
+comments it received on the proposed rule change. The text of these statements may be
+examined at the places specified in Item IV below. The clearing agency has prepared
+securities intermediary indicates by book entry that a financial asset has been
+credited to the person’s securities account. The absence of the crediting of a
+financial asset to an account of a Pledgee and the fact that an account of a Pledgee
+is not a securities account under Article 8 mean that the Pledgee has not acquired
+a security entitlement under Article 8. See NYUCC § 8-501(b). Pursuant to
+Section 8-102, “entitlement holder” means a person identified in the records of a
+securities intermediary as the person having a security entitlement against the
+securities intermediary. If a person acquires a security entitlement by virtue of
+Section 8-501(b)(2) or (3), that person is the entitlement holder. See NYUCC §8-
+102.8Capitalized terms not defined herein are defined in the Rules, By-Laws and
+Organization Certificate of DTC (“Rules”) available at
+http://www.dtcc.com/~/media/Files/Downloads/legal/rules/dtc_rules.pdf.Page 20
+Page 20 of 45
+summaries, set forth in sections A, B, and C below, of the most significant aspects of
+such statements.
+(A) Clearing Agency’s Statement of the Purpose of, and Statutory Basis for,
+the Proposed Rule Change
+1. Purpose
+The proposed rule change of DTC would modify the Settlement Guide and the form
+of Pledgee’s Agreement, as described below. Specifically, the proposed rule change would
+revise text in the Settlement Guide and Pledgee’s Agreement to clarify the text with respect
+to the processing of book entries of Pledge-related9 activity at DTC. The proposed9Pursuant to Rule 1, The defined term “Pledge” in the Rules means, inter alia,
+“creating or providing for a security interest in a Certificated or Uncertificated
+Security, a Securities Account or a Securities [sic] Entitlement in accordance with
+the NYUCC.” See Rule 1, supra note 1. Pursuant to Rule 1, the term “NYUCC”
+means the Uniform Commercial Code of New York, as amended from time to
+time. See Rule 1, supra note 1. Pursuant to Rule 1, the term “Certificated
+Security” has the meaning given to the term “certificated security” in Section 8-
+102 of the NYUCC. See Rule 1, supra note 1. Pursuant to Section 8-102 of the
+NYUCC, “certificated security” means a security that is represented by a
+certificate. See NYUCC 8-102. Pursuant to Rule 1, the term “Uncertificated
+Security” has the meaning given to the term “uncertificated security” in Section 8-
+102 of the NYUCC. See Rule 1, supra note 1. Pursuant to Section 8-102 of the
+NYUCC, “uncertificated security” means a security that is not represented by a
+certificate. Pursuant to Rule 1, the term “Securities Account” (1) as used with
+respect to a Participant or Pledgee, means an account maintained by DTC for the
+Participant or Pledgee to which Securities transactions of the Participant or
+Pledgee effected through the facilities of DTC are debited and credited in the
+manner specified in the Rules and Procedures; and (2) as used with respect to
+DTC, means an internal account of DTC to which Securities transactions are
+debited and credited to DTC. See Rule 1, supra note 1. Pursuant to Rule 1, the
+term “Security Entitlement” has the meaning given to the term “security
+entitlement” in Section 8-102 of the NYUCC. The interest of a Participant or
+Pledgee in a Security credited to its Account is a Security Entitlement. See id.
+Pursuant to Section 8-102 of the NYUCC, “security entitlement” means the rights
+and property interest of an entitlement holder with respect to a financial
+asset specified in Part 5. See NYUCC §8-102. NYUCC Section 8-501(b)
+provides that a person acquires a “security entitlement” when, inter alia, a
+securities intermediary indicates by book entry that a financial asset has been
+credited to the person’s securities account. The absence of the crediting of aPage 21
+Page 21 of 45
+revisions would reflect in the text of the Settlement Guide and Pledgee’s Agreement that
+Pledged Securities remain credited to a Pledgor’s Account unless the Pledgee makes a
+demand for the Pledged Securities, as described below. In this regard, the respective texts
+of the Settlement Guide and the Pledgee’s Agreement currently indicate that Pledged
+Securities are credited to a Pledgee’s Account. As discussed below, the proposed rule
+change relates to a technical aspect of the operational processing of Pledge transactions
+and would not impact the rights or obligations of a Participant or Pledgee.
+The following discussion is provided by DTC and includes, but is not limited to, its
+own analysis of applicable state law provisions that DTC believes are relevant for purposes
+of describing the proposed rule change.
+Background.
+Eligibility for Pledge Services
+The pledge services of DTC are available to banks, trust companies, broker-dealers
+and other Persons approved by the DTC, which have entered into an agreement with the
+DTC satisfactory to it, for the purpose of effecting a Pledge of Deposited Securities to such
+financial asset to an account of a Pledgee and the fact that an account of a Pledgee
+is not a securities account under Article 8 mean that the Pledgee has not acquired
+a security entitlement under Article 8. See NYUCC § 8-501(b). Pursuant to
+Section 8-102, “entitlement holder” means a person identified in the records of a
+securities intermediary as the person having a security entitlement against the
+securities intermediary. If a person acquires a security entitlement by virtue of
+Section 8-501(b)(2) or (3), that person is the entitlement holder. See NYUCC §8-
+102.Page 22
+Page 22 of 45
+banks, trust companies, broker-dealers and other Persons.10 A Pledgee may but need not
+be a Participant. A Pledgee is required by DTC to sign a Pledgee’s Agreement unless it is
+also a Participant. Participants are not required to sign a separate Pledgee’s Agreement to
+use DTC’s pledge services because the Participant’s Agreement binds the Participant to
+DTC’s Rule and Procedures, including those relating to pledge-related activity. Only a
+Pledgee which is a Participant may receive a Pledge Versus Payment.11
+Book Entry of Pledges and Legal Effect
+As indicated above, the definition of a “Security Entitlement” in the DTC Rules
+incorporates the definition of such term in Article 8 of the NYUCC and notes that “[t]he
+interest of a Participant or Pledgee in a Security credited to its Account is a Security
+Entitlement.”
+However, as more fully discussed below, while the Settlement Guide and the
+Pledgee’s Agreement make reference to the movement of Securities to a Pledgee’s
+Account, from an operational standpoint, DTC does not in fact credit a Security to an
+Account of a Pledgee; what the Pledgee receives is not a Security Entitlement. The
+Securities remain credited to the Pledgor’s account until the Pledgee releases the Pledged
+Securities or makes a demand for the Pledged Securities, as discussed below. Rather, a
+notation is placed on the Account of the Pledgor that the Securities are Pledged to the
+Pledgee and the Securities remain in pledged status until the Pledgee instructs otherwise.
+As described below, this bookkeeping method does not adversely impact the rights
+of the Pledgee in that the Pledgee maintains Control over the Pledged Securities and the10See Rule 2, Section 3, supra note 1.11See id.Page 23
+Page 23 of 45
+Pledged Securities cannot be used by the Pledgee for any other transaction unless the
+Pledgee releases the Securities from the Pledged Status through an instruction to DTC.
+DTC’s Description of Pledge
+DTC’s Settlement Service Guide states that:
+“[w]hen pledging securities to a pledgee, the pledgor’s position is moved from the
+pledgor’s general free account to the pledgee’s account which prevents the pledged
+position from being used to complete other transactions. Likewise, the release of a pledged
+position would move the pledged position back to the pledgor’s general free account where
+it would then be available to complete other transactions.”12
+Paragraph 2 of DTC’s form of Pledgee’s Agreement provides that:
+“[s]o long as Pledgee shall maintain a Depository Trust account, Depository Trust,
+upon the pledge to Pledgee of securities held by Depository Trust for the account of any
+depositor in Depository Trust, will make appropriate entries on its books transferring the
+securities from the account of such depositor to the account of Pledgee and shall maintain
+such securities in the account of Pledgee until instructed by Pledgee to release such
+securities to the account of the pledgor, to deliver such securities to the order of Pledgee or
+to transfer such securities on the books of Depository Trust to the account of a depositor in
+Depository Trust other than the pledgor.”
+The descriptions of DTC’s pledge arrangements in the (1) Settlement Service
+Guide, with respect to the text shown above, and as more fully described below, and (2)
+form of Pledgee’s Agreement are imprecise because in practice DTC does not move or12See Settlement Guide, supra note 2 at 3-4.Page 24
+Page 24 of 45
+transfer the securities from an account of the Pledgor to an account of the Pledgee, as more
+fully described below.
+The definition of a “Security Entitlement” in the DTC Rules incorporates the
+definition of such term in Article 8 of the NYUCC and notes that “[t]he interest of a
+Participant or Pledgee in a Security credited to its Account is a Security Entitlement.”
+However, since DTC is not in fact crediting a Security to an Account of a Pledgee,
+what the Pledgee receives is not a Security Entitlement.
+The definition of an “Entitlement Holder” in the DTC Rules incorporates the
+definition of such term in Article 8 of the NYUCC (as to which see below) and notes that
+“[a] Participant or Pledgee is an Entitlement Holder with respect to a Security credited to
+its Account”.
+However, since DTC is not in fact crediting a Security to an Account of a Pledgee,
+the Pledgee is not an Entitlement Holder. However, the Pledgee maintains Control of the
+Pledged Securities as more fully described below. A key to a Pledgee exercising its Control
+is its ability to instruct DTC an Entitlement Order for the delivery, pledge release or
+withdrawal of a security.
+Entitlement Order
+The definition of an “Entitlement Order” in the Rules incorporates the definition of
+such term in Article 8 of the NYUCC that “[a]n instruction from a Participant or Pledgee
+to the Corporation with respect to a Delivery, Pledge, Release or Withdrawal of a Security
+credited to a Securities Account is an Entitlement Order”.
+Note that the definition of an Entitlement Order does not require that the Security
+be credited to a Securities Account of the instructor. The breadth of this definition allowsPage 25
+Page 25 of 45
+permitted entities, such as Pledgees, to issue Entitlement Orders to DTC in respect of
+Securities credited to Securities Accounts belonging to others.
+DTC Rule 9(B)13 provides that:
+“[i]f [DTC] receives an instruction from a Pledgee to effect a Delivery or
+Withdrawal of Pledged Securities, such instruction shall have the effect of notifying
+[DTC] that the Pledgee elects not to Release the Pledged Securities but, rather, to
+assert its Control over the Pledged Securities by the transfer of a greater interest in
+the Pledged Securities to itself or another Person. [DTC] shall accept such an
+instruction as a representation that the Pledgee is acting in accordance with
+applicable law, rules or regulations, agreements or any adjudication thereof.”
+Under NYUCC Section 8-507(a),14 a securities intermediary satisfies its duty to
+comply with an Entitlement Order if it acts with respect to the duty as agreed upon by the
+entitlement holder and the securities intermediary. DTC satisfies its duty to comply with
+an Entitlement Order if it acts with respect to the duty as agreed upon by the Entitlement
+Holder and the Securities Intermediary. In the case of Security Entitlements pledged on the
+books of DTC, DTC satisfies its duty to comply with an Entitlement Order by complying
+with the Entitlement Order of the Pledgee.
+Control
+Under NYUCC Section 9-106(a),15 “[a] person has control of a certificated
+security, uncertificated security, or security entitlement as provided in Section 8-106”.1613See Rule 9(B), supra note 1.14NYUCC § 8-507(a).15See NYUCC § 9-106(a).16NYUCC § 8-106.Page 26
+Page 26 of 45
+Under NYUCC Section 8-106(d), “[a] purchaser has “control” of a security
+entitlement if:
+(1) the purchaser becomes the entitlement holder;
+(2) the securities intermediary has agreed that it will comply with entitlement
+orders originated by the purchaser without further consent by the entitlement holder; or
+(3) another person has control of the security entitlement on behalf of the
+purchaser or, having previously acquired control of the security entitlement,
+acknowledges that it has control on behalf of the purchaser.”
+Under NYUCC Section 1-102,17 a purchaser is “a person that takes by purchase”
+with “purchase” being defined as “taking by sale, lease, discount, negotiation, mortgage,
+pledge, lien, security interest, issue or reissue, gift, or any other voluntary transaction
+creating an interest in property”.
+NYUCC Section 8-106(f) further provides that “[a] purchaser has “control” under
+subsection (c)(2) or (d)(2) even if any duty of the issuer or the securities intermediary to
+comply with instructions or entitlement orders originated by the purchaser is subject to
+any condition or conditions (other than further consent by the registered owner or the
+entitlement holder).”
+Official Comment 4 to NYUCC Section 8-10618 notes that:
+“[s]ubsection (d)(2) provides that a purchaser has control if the securities
+intermediary has agreed to act on entitlement orders originated by the purchaser if no
+further consent by the entitlement holder is required. Under subsection (d)(2), control
+may be achieved even though the original entitlement holder remains as the entitlement
+holder.”17See NYUCC § 1-102.18See NYUCC § 8-106.Page 27
+Page 27 of 45
+Example 6 of Official Comment 4 is illustrative:
+“Able & Co., a securities dealer, grants Alpha Bank a security interest in a
+security entitlement that includes 1000 shares of XYZ Co. stock that Able holds through
+an account with Clearing Corporation. Able causes Clearing Corporation to transfer the
+shares into a pledge account, pursuant to an agreement under which Able will continue to
+receive dividends, distributions, and the like, but Alpha has the right to direct
+dispositions. As in Example 3, Alpha has control of the 1000 shares under subsection
+(d)(2).”
+In the case of security entitlements pledged on the books of DTC, because DTC
+will comply with the instructions of a Pledgee as provided for in Rule 9(B),19 which is an
+agreement between DTC and its Participants and Pledgees, a Pledgee has control of such
+security entitlements under NYUCC § 8-106(d)(2) even when the Pledged Securities
+remain credited to the account of the Pledgor.
+DTC’s pledge arrangements operate pursuant to the DTC Rules and the NYUCC.
+When Security Entitlements are pledged to a Pledgee through the facilities of DTC, the
+Pledgee has a security interest in such pledged Security Entitlements.20 A Pledgee has
+“control” under Articles 8 and 9 of the NYUCC and under the DTC Rules of any Security19See Rule 9(B), supra note 1.20The interest transferred is, however, only a security interest if the Pledgor and
+Pledgee have an agreement outside of DTC that constitutes a security agreement
+under applicable law and as to which the other requirements for attachment and
+enforceability of a security interest have been satisfied. The agreement is entered
+into by the parties outside of DTC, and DTC does not have knowledge or
+information on the existence of such an agreement between the parties.Page 28
+Page 28 of 45
+Entitlements pledged to it through the facilities of DTC,21 and the Pledgee is empowered
+to issue Entitlement Orders22 to DTC to direct the release, delivery or withdrawal of any
+such pledged Security Entitlements.
+Example of a Pledge by a Participant to a Pledgee
+When Security Entitlements credited to Participant A’s account at DTC are
+pledged to Pledgee B through the facilities of DTC, B has a security interest in such
+pledged security entitlements.23
+B does not itself have “security entitlements” to the underlying securities and B is
+not an “entitlement holder” as such terms are defined in the NYUCC.
+However, B as Pledgee would have “control” under Articles 8 and 9 of the
+NYUCC and under the Rules of any Security Entitlements pledged to it through the
+facilities of DTC, and B is empowered to issue Entitlement Orders to DTC to direct the
+release, delivery or withdrawal of any such pledged Security Entitlements.21The definition of “Control” in the Rules incorporates the definition of such term
+in Article 8 of the NYUCC and notes that “[a] Pledgee has Control of Pledged
+Securities until they are Delivered, Released or Withdrawn by the Pledgee.” See
+Rule 1, Section 1, supra note 1.22The definition of an “Entitlement Order” in the Rules incorporates the definition
+of such term in Section 8-102 of the NYUCC and notes that “[a]n instruction from
+a Participant or Pledgee to the Corporation with respect to a Delivery, Pledge,
+Release or Withdrawal of a Security credited to a Securities Account is an
+Entitlement Order”. As noted above, Pursuant to Section 8-102, “entitlement
+order” means a notification communicated to a securities intermediary directing
+transfer or redemption of a financial asset to which the entitlement holder has
+a security entitlement. See NYUCC 8-102.23As mentioned above, the interest transferred is, however, only a security interest if
+A and B have an agreement outside of DTC that constitutes a security agreement
+under applicable law and as to which the other requirements for attachment and
+enforceability of a security interest have been satisfied.Page 29
+Page 29 of 45
+Proposed Rule Change
+Proposed change to text of Settlement Guide
+Pursuant to the proposed rule change, DTC would revise the text of the Settlement
+Guide to reflect that Pledged Securities do not move to an Account of the Pledgee. As
+discussed above, the movement of the securities is not required to effect a Pledge and
+does not impact the rights of Pledgor or Pledgee under the Rules or the NYUCC. Rather
+a Pledged Securities continues credited to the pledgor’s account, however with a system
+notation showing the status of the position as pledged by the pledgor to the pledgee. This
+status systemically prevents the pledged position from being used to complete other
+transactions, which is consistent with the Pledgees Control over the Pledge Securities, as
+discussed above. Likewise, the release of a pledged position results in the removal of
+notation of the pledge status of the position and the position would become available to
+the pledgor to complete other transactions.
+The changes to the Settlement Guide text are technical in nature, and while
+enhancing clarity with respect to the book entries performed by DTC as they relate to
+pledge activity, the change would not impact the rights or obligations of Participants and
+Pledgees. In this regard, the applicable sections of the Settlement Guide would be
+revised to (1) clarify the text with respect operational aspect of book entries of pledges, as
+discussed above, and (2) make changes to text for readability necessary in the context of
+the proposed clarification, as follows (bold, underlined text indicates additions; bold
+strike-through text indicates deletions):Page 30
+Page 30 of 45
+(a) Text included in Item 3 (Collateral Loans) set forth under the heading
+“Settlement Transactions”24 would be revised as follows:
+“[w]hen pledging securities to a pledgee, the pledgor’s position is moved
+from the pledgor’s general free account to the pledgee’s account
+continues to be credited to the pledgor’s account, however with a system
+notation showing the status of the position as pledged by the pledgor to
+the pledgee. This status systemically which prevents the pledged position
+from being used to complete other transactions. Likewise, the release of a
+pledged position would move the pledged position back to the results in
+the removal of notation of the pledge status of the position and the
+position would become pledgor’s general free account where it would
+then be available to the pledgor to complete other transactions.”
+(b) Text included under the heading “About the Product” that appears under the
+heading “Collateral Loan Program”25 would be revised as follows:
+“The Collateral Loan Program allows you to pledge securities from held in
+your general free account as collateral for a loan or for other purposes (such as
+Letters of Credit) to a pledgee participating in the program. You can also
+request the pledgee to release pledge securities back to your general free
+account. These pledges and releases can be free (when money proceeds are
+handled outside DTC) or valued (when money proceeds are applied as debits24See Settlement Guide, supra note 2 at 3-4.25See Settlement Guide, supra note 2 at 8-9.Page 31
+Page 31 of 45
+and credits to the pledgee’s and pledgor’s money settlement accounts). A
+Pledgee may, but need not be, a Participant. Only a Pledgee which is a
+Participant may receive valued pledges.”
+(c) Text included under the heading “Pledges to the Options Clearing
+Corporation”26 would be revised as follows:
+“A Participant writing an option on any options exchange may fully
+collateralize that option by pledging the underlying securities by book-entry
+through DTC to the Options Clearing Corporation (OCC). If the option is
+called (exercised), the securities may be released and delivered to the holder
+of the call. If the option contract is not exercised, OCC validates a release of
+the pledged securities, which are then returned to the Participant’s general
+free account.”
+(d) Text included under the heading “Release of Deposits with Options Clearing
+Corporation on Expired Options” would be revised as follows:
+OCC automatically releases securities deposited with it to cover margin
+requirements on an option contract when the option contract expires. The
+securities are then allocated to your general free account. Notification
+of the released securities is received via the Collateral Loan Services
+functionality in the Settlement User Interface or automated output.
+(e) Text included under the heading “Shared Control Accounts”27 would be
+revised as follows: In addition to changes made for the purposes described in26See Settlement Guide, supra note 2 at 10.27See Settlement Guide, supra note 2 at 15-16.Page 32
+Page 32 of 45
+(x) and (y) above, DTC would also delete text shown below that states”
+“Pledgee account continue to be available at DTC.” This sentence was added
+to the text when Shared control account arrangements were added to the
+Procedures28 to clarify that the existing pledge services would continue to be
+offered. As both the original pledge program and the Shared control account
+process are both established programs, DTC believes the sentence is no longer
+necessary:
+About the Product
+Shared control accounts are available as an alternative to “agreement to
+pledge” arrangements.
+Background
+When a Participant pledges securities to the pledgee account of a pledgee at
+DTC (sometimes called a “hard pledge”), the securities are under the sole
+control of the pledgee. Only the pledgee can redeliver or release the securities.
+Pledgee accounts continue to be available at DTC.
+Shared control accounts are available at DTC as an alternative to agreement to
+pledge (sometimes called “agreement to deliver”) arrangements. A pledgee
+has control over securities delivered by a Participant to the Participant’s
+shared control account at DTC since the pledge has the ability to redeliver the
+securities without further consent by the Participant. Until the pledgee
+redelivers the securities, the Participant has the flexibility to redeliver or make28See Securities Exchange Act Release No. 40191 (July 10, 1998), 63 FR 38444
+(July 16, 1998) (SR-DTC-98-5).Page 33
+Page 33 of 45
+substitutions for the securities without obtaining the pledgee’s release of the
+securities.
+Shared controls are separately identified in DTC’s Reference Directory.
+Participants interested in establishing a shared control account should contact
+their Relationship Manager.
+Procedures for DTC Shared Control Accounts
+The following procedures are an addition to DTC’s Procedures for Pledgees.
+1. Any Participant may establish a shared control account at DTC and
+may designate any DTC pledgee to be the pledgee for that shared
+control account. A Participant may deliver securities (or other financial
+assets) by a free pledge from any of its DTC accounts (the “original
+account”) to its shared control account in order to grant a security
+interest or other interest in the securities to the pledgee. The shared
+control account is an account of the Participant and is identified with a
+separate account number from any other account of the Participant. A
+Participant may establish multiple shared control accounts, but only
+one pledge can be designated for each shared control account.
+2. Except as modified by these procedures, the operation of a shared
+control account is identical to the operation of a DTC pledge account
+and all DTC procedures applicable to pledges accounts are applicable
+to shared control accounts. No deliveries vs. payment, pledges vs.
+payment, or physical deposits can be made to a shared control account
+and no deliveries vs. payment, pledges vs. payment, or physicalPage 34
+Page 34 of 45
+withdrawals can be made from a shared control account. A Participant
+should not deliver securities to another Participant’s shared control
+account. In the instructions for a delivery of securities to a shared
+control account, the mandatory hypothecation code field should be
+completed in the same manner as it is for a pledge made without the
+use of a shared control delivery to a pledge account. The DTC fees and
+charges for a transaction involving a shared control account are the
+same as the fees and charges for a pledge transaction that does not
+involving involve a pledge account. The DTC monthly account usage
+charges applicable to a shared control account are charged to the
+Participant. The DTC reports and statements to the Participant and the
+pledge for a transaction involving a shared control account are the
+same as the reports and statements for a transaction involving a pledge
+that does not involve a shared control account.
+3. As with a pledge account, voting Voting rights on the securities
+credited to a shared control account are assigned to the Participant.
+Cash dividend and interest payments and other cash distributions on
+such securities are credited to the original account. Distribution of
+securities for which the ex-distribution date is on or prior to the
+payable date or in which the distribution is payable in a different
+security are also credited to the original account. Any stock splits or
+other distributions of the same securities for which the ex-distribution
+date is after the payable date are credited to the shared control account.Page 35
+Page 35 of 45
+4. The securities credited to a shared control account cannot be
+designated as or included in the collateral for any obligation of the
+Participant or the pledgee to DTC. DTC has no lien or other interest in
+any securities credited to a shared control account”
+Proposed change to text of the Pledgee’s Agreement
+Pursuant to the proposed rule change, DTC would revise the text of the Pledgee’s
+Agreement to reflect that Pledged Securities do not move to a pledgee account. The
+change is technical in nature and while enhancing clarity with respect to the book entries
+performed by DTC as they relate to pledge activity, the change would not impact the
+rights or obligations of Participants and Pledgees pursuant to the Rules, Service Guide
+and/or the Pledgee’s Agreement. In this regard, the applicable text of the Pledgee’s
+Agreement would be revised as follows (bold, underlined text indicates additions; bold
+strike-through text indicates deletions):
+“[s]o long as Pledgee shall maintain a Depository Trust account, Depository
+Trust, upon the pledge to Pledgee of securities held by Depository Trust for
+the account of any depositor in Depository Trust, will make appropriate
+entries on its books to indicate the pledge of transferring the securities
+from the account of such depositor to the account of Pledgee and shall
+maintain such securities in the account of with a notation that the securities
+are pledged by the depositor to the Pledgee until instructed by Pledgee to
+release such securities to the account of the pledgor, to deliver such securities
+to the order of Pledgee or to transfer such securities on the books of
+Depository Trust to the account of a depositor in Depository Trust other than
+the pledgor.”Page 36
+Page 36 of 45
+Effective Date
+The proposed rule change would become effective upon filing.
+(b) Statutory Basis
+Section 17A(b)(3)(F) of the Securities Exchange Act of 1934 (“Act”),29 requires
+that the rules of the clearing agency be designed, inter alia, to promote the prompt and
+accurate clearance and settlement of securities transactions. DTC believes that the
+proposed rule change is consistent with this provision of the Act. DTC believes that the
+proposed rule change is consistent with this provision of the Act for the reasons described
+below.
+As described above, the proposed rule change would allow Participants and
+Pledgees to more readily understand the Rules and Procedures relating to the processing
+of book entries of Pledges at DTC by (1) clarifying text to more accurately reflect the
+operational process of how book entries of pledges are entered on DTC’s system, and (2)
+making changes to text for readability necessary in the context of the proposed
+clarification. By clarifying the Rules to facilitate Participants ability to understand the
+operational processes relating to pledge services, DTC believes that the proposed changes
+would facilitate Participants’ and Pledgees’ ability to process pledge transactions and
+related understand DTC system functionality designed to accommodate key aspects of
+the pledge process, including the ability of the Pledgee to release Pledged Securities or
+make a demand for collateral relating to the Pledged Securities, as described above.
+Therefore, by facilitating the ability of Participants to understand the related Rules and
+pledge functionality, DTC believes the proposed rule change would promote the prompt2915 U.S.C. 78q-1(b)(3)(F).Page 37
+Page 37 of 45
+and accurate clearance and settlement of securities transactions, consistent with Section
+17(A)(b)(3)(f) of the Act.30
+2.
+Statutory Basis
+Section 17A(b)(3)(F) of the Securities Exchange Act of 1934 (“Act”),31 requires
+that the rules of the clearing agency be designed, inter alia, to promote the prompt and
+accurate clearance and settlement of securities transactions. DTC believes that the
+proposed rule change is consistent with this provision of the Act. DTC believes that the
+proposed rule change is consistent with this provision of the Act for the reasons described
+below.
+As described above, the proposed rule change would allow Participants and
+Pledgees to more readily understand the Rules and Procedures relating to the processing
+of book entries of Pledges at DTC by (1) clarifying text to more accurately reflect the
+operational process of how book entries of pledges are entered on DTC’s system, and (2)
+making changes to text for readability necessary in the context of the proposed
+clarification. By clarifying the Rules to facilitate Participants ability to understand the
+operational processes relating to pledge services, DTC believes that the proposed changes
+would facilitate Participants’ and Pledgees’ ability to process pledge transactions and
+related understand DTC system functionality designed to accommodate key aspects of
+the pledge process, including the ability of the Pledgee to release Pledged Securities or
+make a demand for collateral relating to the Pledged Securities, as described above.
+Therefore, by facilitating the ability of Participants to understand the related Rules and30Id.3115 U.S.C. 78q-1(b)(3)(F).Page 38
+Page 38 of 45
+pledge functionality, DTC believes the proposed rule change would promote the prompt
+and accurate clearance and settlement of securities transactions, consistent with Section
+17(A)(b)(3)(f) of the Act.32
+(B) Clearing Agency’s Statement on Burden on Competition
+DTC does not believe that the proposed rule change would have any impact on
+competition because it would merely make technical clarifying changes and changes for
+enhanced readability to the text of the Settlement Service Guide and the Pledgee’s
+Agreement that do not otherwise affect Participants’ and Pledgee’s rights or obligations.
+(C) Clearing Agency’s Statement on Comments on the Proposed Rule Change
+Received from Members, Participants, or Others
+Written comments relating to this proposed rule change have not been solicited or
+received. DTC will notify the Commission of any written comments received by DTC.
+III. Date of Effectiveness of the Proposed Rule Change, and Timing for Commission
+Action
+Within 45 days of the date of publication of this notice in the Federal Register or
+within such longer period up to 90 days (i) as the Commission may designate if it finds
+such longer period to be appropriate and publishes its reasons for so finding or (ii) as to
+which the self-regulatory organization consents, the Commission will:32Id.Page 39
+Page 39 of 45
+(A) by order approve or disapprove such proposed rule change, or
+(B) institute proceedings to determine whether the proposed rule change
+should be disapproved.
+The foregoing rule change has become effective pursuant to Section 19(b)(3)(A)33
+of the Act and paragraph (f)34 of Rule 19b-4 thereunder. At any time within 60 days of
+the filing of the proposed rule change, the Commission summarily may temporarily
+suspend such rule change if it appears to the Commission that such action is necessary or
+appropriate in the public interest, for the protection of investors, or otherwise in
+furtherance of the purposes of the Act.
+IV. Solicitation of Comments
+Interested persons are invited to submit written data, views and arguments
+concerning the foregoing, including whether the proposed rule change is consistent with
+the Act. Comments may be submitted by any of the following methods:
+Electronic Comments:• Use the Commission’s Internet comment form(http://www.sec.gov/rules/sro.shtml); or• Send an e-mail to rule-comments@sec.gov. Please include File NumberSR-DTC-2021-005 on the subject line.
+Paper Comments:• Send paper comments in triplicate to Secretary, Securities and ExchangeCommission, 100 F Street, NE, Washington, DC 20549.3315 U.S.C 78s(b)(3)(A).3417 CFR 240.19b-4(f).Page 40
+Page 40 of 45
+All submissions should refer to File Number SR-DTC-2021-005. This file number
+should be included on the subject line if e-mail is used. To help the Commission process
+and review your comments more efficiently, please use only one method. The
+Commission will post all comments on the Commission’s Internet website
+(http://www.sec.gov/rules/sro.shtml). Copies of the submission, all subsequent
+amendments, all written statements with respect to the proposed rule change that are filed
+with the Commission, and all written communications relating to the proposed rule
+change between the Commission and any person, other than those that may be withheld
+from the public in accordance with the provisions of 5 U.S.C. 552, will be available for
+website viewing and printing in the Commission’s Public Reference Room, 100 F Street,
+NE, Washington, DC 20549 on official business days between the hours of 10:00 a.m.
+and 3:00 p.m. Copies of the filing also will be available for inspection and copying at the
+principal office of DTC and on DTCC’s website (http://dtcc.com/legal/sec-rule-
+filings.aspx). All comments received will be posted without change. Persons submitting
+comments are cautioned that we do not redact or edit personal identifying information
+from comment submissions. You should submit only information that you wish to make
+available publicly. All submissions should refer to File Number SR-DTC-2021-005 and
+should be submitted on or before [insert date 21 days from publication in the Federal
+Register].
+For the Commission, by the Division of Trading and Markets, pursuant to
+delegated authority.35
+Secretary3517 CFR 200.30-3(a)(12).Page 41
+Page 41 of 45
+EXHIBIT 5
+Struck-through, boldface text indicates deleted language
+Bold and underlined text indicates added language.Settlement Service Guide***Settlement TransactionsThere are three main types of transactions processed through the Settlement system.***3. Collateral loans: The collateral loan service allows a Participant (the pledgor) to
+pledge securities as collateral for a loan or for other purposes and also request
+the release of pledged securities. This service allows such pledges and pledge
+releases to be made free, meaning that the money component of the transaction
+is settled outside of the depository, or valued, meaning that the money
+component of the transaction is settled through DTC as a debit/credit to the
+pledgor's and pledgee's DTC money settlement account. When pledging
+securities to a pledgee, the pledgor's position is moved from the pledgor's
+general free account to the pledgee’s account continues to be credited to
+the pledgor’s account, however with a system notation showing the status
+of the position as pledged by the pledgor to the pledgee. This status
+systemically which prevents the pledged position from being used to complete
+other transactions. Likewise, the release of a pledged position would move the
+pledged position back to the results in the removal of notation of the
+pledge status of the position and the position would become pledgor's
+general free account where it would then be available to the pledgor to
+complete other transactions.***Collateral Loan ProgramAbout the ProductThe Collateral Loan Program allows you to pledge securities from held in your general
+free account as collateral for a loan or for other purposes (such as Letters of Credit) to a
+pledgee participating in the program. You can also request the pledgee to release
+pledge securities back to your general free account. These pledges and releases can
+be free (when money proceeds are handled outside DTC) or valued (when moneyPage 42
+Page 42 of 45proceeds are applied as debits and credits to the pledgee's and pledgor's money
+settlement accounts). A Pledgee may, but need not be, a Participant. Only a Pledgee
+which is a Participant may receive valued pledges.***Pledges to the Options Clearing CorporationA Participant writing an option on any options exchange may fully collateralize that option by
+pledging the underlying securities by book-entry through DTC to the Options Clearing
+Corporation (OCC). If the option is called (exercised), the securities may be released and
+delivered to the holder of the call. If the option contract is not exercised, OCC validates a release
+of the pledged securities, which are then returned to the Participant's general free account.***Release of Deposits with Options Clearing Corporation on Expired Options
+OCC automatically releases securities deposited with it to cover margin requirements on
+an option contract when the option contract expires. The securities are then allocated
+to your general free account. Notification of the released securities is received via the
+Collateral Loan Services functionality in the Settlement User Interface or automated
+output.***Shared Control Accounts
+About the Product
+Shared control accounts are available as an alternative to “agreement to pledge”
+arrangements.
+Background
+When a Participant pledges securities to the pledgee account of a pledgee at DTC
+(sometimes called a “hard pledge”), the securities are under the sole control of the
+pledgee. Only the pledgee can redeliver or release the securities. Pledgee accounts
+continue to be available at DTC.
+Shared control accounts are available at DTC as an alternative to agreement to pledge
+(sometimes called “agreement to deliver”) arrangements. A pledgee has control over
+securities delivered by a Participant to the Participant’s shared control account at DTC
+since the pledge has the ability to redeliver the securities without further consent by the
+Participant. Until the pledgee redelivers the securities, the Participant has the flexibility to
+redeliver or make substitutions for the securities without obtaining the pledgee’s release
+of the securities.Page 43
+Page 43 of 45Shared controls are separately identified in DTC’s Reference Directory. Participants
+interested in establishing a shared control account should contact their Relationship
+Manager.
+Procedures for DTC Shared Control Accounts
+The following procedures are an addition to DTC’s Procedures for Pledgees.
+1. Any Participant may establish a shared control account at DTC and may
+designate any DTC pledgee to be the pledgee for that shared control account. A
+Participant may deliver securities (or other financial assets) by a free pledge from
+any of its DTC accounts (the “original account”) to its shared control account in
+order to grant a security interest or other interest in the securities to the pledgee.
+The shared control account is an account of the Participant and is identified with
+a separate account number from any other account of the Participant. A
+Participant may establish multiple shared control accounts, but only one pledge
+can be designated for each shared control account.
+2. Except as modified by these procedures, the operation of a shared control
+account is identical to the operation of a DTC pledge account and all DTC
+procedures applicable to pledges accounts are applicable to shared control
+accounts. No deliveries vs. payment, pledges vs. payment, or physical deposits
+can be made to a shared control account and no deliveries vs. payment, pledges
+vs. payment, or physical withdrawals can be made from a shared control
+account. A Participant should not deliver securities to another Participant’s
+shared control account. In the instructions for a delivery of securities to a shared
+control account, the mandatory hypothecation code field should be completed in
+the same manner as it is for a pledge made without the use of a shared
+control delivery to a pledge account. The DTC fees and charges for a
+transaction involving a shared control account are the same as the fees and
+charges for a pledge transaction that does not involving involve a pledge
+account. The DTC monthly account usage charges applicable to a shared control
+account are charged to the Participant. The DTC reports and statements to the
+Participant and the pledge for a transaction involving a shared control account
+are the same as the reports and statements for a transaction involving a pledge
+that does not involve a shared control account.
+3. As with a pledge account, voting Voting rights on the securities credited to a
+shared control account are assigned to the Participant. Cash dividend and
+interest payments and other cash distributions on such securities are credited to
+the original account. Distribution of securities for which the ex-distribution date is
+on or prior to the payable date or in which the distribution is payable in a different
+security are also credited to the original account. Any stock splits or other
+distributions of the same securities for which the ex-distribution date is after the
+payable date are credited to the shared control account.
+4. The securities credited to a shared control account cannot be designated as or
+included in the collateral for any obligation of the Participant or the pledgee to
+DTC. DTC has no lien or other interest in any securities credited to a shared
+control account.Page 44
+Page 44 of 45
+***Pledgee’s Agreement
+AGREEMENT as of [Date], between The Depository Trust Company (Depository Trust)
+and [Pledgee Name] (Pledgee).
+WHEREAS, Depository Trust maintains a centralized securities depository within which
+transfers and pledges of securities are effected by book entry methods;
+WHEREAS, Pledgee desires to have the benefits of a Depository Trust account in order
+that it may be designated from time to time as a pledgee of securities within the system;
+and
+WHEREAS, subject to the terms and conditions hereof, Depository Trust is willing to
+provide Pledgee with a Depository Trust account.
+NOW, THEREFORE, in consideration of the premises and the mutual covenants
+herein contained the parties
+hereto do hereby agree as follows:
+1.
+So long as Depository Trust makes available to Pledgee a Depository Trust
+account, Pledgee agrees to pay Depository Trust the charges and fees from time to time
+in effect for Depository Trust applicable to Pledgee and to participate in Depository Trust
+in accordance with such Rules and procedures as may from time to time be established
+by Depository Trust, provided, however, that Pledgee may terminate this agreement at
+anytime, upon written notice delivered to Depository Trust, accompanied by a written
+demand for delivery of the certificates representing the securities, or for transfer by book
+entry of the securities, then being held by Depository Trust for Pledgee’s Depository
+Trust account and payment of any charges of fees then owing to Depository Trust.
+Immediately upon such notice and demand Pledgee’s participation in Depository Trust
+shall cease. Pledgee shall thereafter be under no obligation to pay any further charges
+or fees referred to in this paragraph and Depository Trust shall promptly arrange for
+delivery of Pledgee’s certificates representing the securities, or for transfer by book entry
+of the securities, then being held by Depository Trust for Pledgee’s account, such
+delivery or transfer to be at Pledgee’s expense.
+2.So long as Pledgee shall maintain a Depository Trust account, Depository
+Trust, upon the pledge to Pledgee of securities held by Depository Trust for the
+account of any depositor in Depository Trust, will make appropriate entries on its
+books to indicate the pledge of transferring the securities from the account of
+such depositor to the account of Pledgee and shall maintain such securities in
+the account of with a notation that the securities are pledged by the
+depositor to the Pledgee until instructed by Pledgee to release such securities
+to the account of the pledgor, to deliver such securities to the order of Pledgee
+or to transfer such securities on the books of Depository Trust to the account of a
+depositor in Depository Trust other than the pledgor.Page 45
+Page 45 of 453.
+Pledgee agrees to indemnify and hold harmless Depository Trust, its officers,
+directors, employees and agents against any and all loss, liability, damage, cost and
+expense, including reasonable attorneys’ fees, arising out of any act or omission by
+Pledgee, or any of its employees or agents, or the Pledgee’s or any of its employee’s or
+agent’s error, negligence or fraud relating to Pledgee’s Depository Trust account.
+4.
+This agreement and any transactions hereunder shall be governed by and
+construed in accordance with the laws of the State of New York.
+5.
+This agreement shall be binding upon, and shall inure to the benefit of, the
+parties hereto and their respective successors and assigns.
+6.
+This agreement shall be effective upon the date when it is executed by both
+parties hereto and a fully executed copy hereof has been delivered to the box of the
+Pledgee maintained by Depository Trust on its premises or has been deposited in the
+United States Postal Service, with posta
